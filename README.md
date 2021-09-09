@@ -1,5 +1,5 @@
 # FabricFarms
-[[/server-icon.png|It's Farming Time!]] 
+[[/server-icon.png]] 
 Minecraft 1.17.1+ Fabric Client Mod Pack
 
 ## World Overview
