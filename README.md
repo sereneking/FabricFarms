@@ -1,4 +1,4 @@
-![FabricFarms](../..wiki/Images/FabricFarmsBanner-01.png)
+![FabricFarms](../../wiki/Images/FabricFarmsBanner-01.png)
 # ![FabricFarms](/server-icon.png)Fabric Farms
 Minecraft 1.17.1+ Fabric Client Mod Pack
 
