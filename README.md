@@ -1,7 +1,7 @@
 # ![FabricFarms](/server-icon.png)Fabric Farms
 Minecraft 1.17.1+ Fabric Client Mod Pack
 
-Please check out the [Wiki](Home) on this Github for more information regarding how to install and more!
+Please check out the [Wiki](../wiki/Home) on this Github for more information regarding how to install and more!
 
 ## World Overview
 No longer is the world filled with plain landscapes and broken features! Filled with hundreds of structure types and new enemies lurking around every corner, The Fabric Farms is filled to the brim! Not only is the world filled with different types of strutures, but the world generation is overhauled to make it feel like a whole new world. From top to bottom, this world is filled with secrets.
