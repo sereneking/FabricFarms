@@ -20,6 +20,7 @@ No longer is the world filled with plain landscapes and broken features! Filled 
 - New villager types!
 - Boss monsters!
 - Redstone wires!
+- Mythic Monsters to tame and ride!
 
 ## Server Admin
 For any issues, please submit them to this github. Please contact Sereneking for any issues.
