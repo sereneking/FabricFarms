@@ -1,6 +1,8 @@
 {
 	"basics": {
-		"favorites": [],
+		"favorites": [
+			"{mode:\"CREATIVE\",type:\"roughlyenoughitems:gamemode\"}"
+		],
 		// Declares whether cheating mode is on.
 		"cheating": false,
 		"favoritesEnabled": true,
