@@ -1,7 +1,8 @@
 {
 	"basics": {
 		"favorites": [
-			"{mode:\"CREATIVE\",type:\"roughlyenoughitems:gamemode\"}"
+			"{mode:\"CREATIVE\",type:\"roughlyenoughitems:gamemode\"}",
+			"{mode:\"SURVIVAL\",type:\"roughlyenoughitems:gamemode\"}"
 		],
 		// Declares whether cheating mode is on.
 		"cheating": false,
