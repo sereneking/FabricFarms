@@ -1,4 +1,4 @@
-# [image](/server-icon.png) FabricFarms
+# [[/server-icon.png|It's Farming Time!]] FabricFarms
 Minecraft 1.17.1+ Fabric Client Mod Pack
 
 ## World Overview
