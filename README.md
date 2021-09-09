@@ -1,4 +1,4 @@
-# ![FabricFarms](/server-icon.png)FabricFarms
+# ![FabricFarms](/server-icon.png)Fabric Farms
 Minecraft 1.17.1+ Fabric Client Mod Pack
 
 ## World Overview
